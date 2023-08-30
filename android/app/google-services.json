@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252221186562",
+    "project_id": "automacao-residencial-227d5",
+    "storage_bucket": "automacao-residencial-227d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252221186562:android:b638361fdcfce7c2417d1b",
+        "android_client_info": {
+          "package_name": "com.example.automcao_residencial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252221186562-8cfm0vt095ion083te8qcka4nhc6b0gf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfp_7GFGHt5ueoHfkpMC2HOF_qHxhzUFM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252221186562-8cfm0vt095ion083te8qcka4nhc6b0gf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
